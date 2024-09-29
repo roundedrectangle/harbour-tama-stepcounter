@@ -12,9 +12,4 @@ Name=harbour-tama-stepcounter
 Name[de]=harbour-tama-stepcounter
 
 [X-Sailjail]
-# Replace with your organization as a reverse domain name
-OrganizationName=org.myorg
-# ApplicationName does not have to be identical to Name
-ApplicationName=tama-stepcounter
-# Add the required permissions here
-Permissions=
+Sandboxing=Disabled

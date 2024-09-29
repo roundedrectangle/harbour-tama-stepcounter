@@ -19,7 +19,7 @@ SOURCES += src/harbour-tama-stepcounter.cpp
 DISTFILES += qml/harbour-tama-stepcounter.qml \
     qml/cover/CoverPage.qml \
     qml/pages/FirstPage.qml \
-    qml/pages/SecondPage.qml \
+    qml/pages/TutorialPage.qml \
     rpm/harbour-tama-stepcounter.changes.in \
     rpm/harbour-tama-stepcounter.changes.run.in \
     rpm/harbour-tama-stepcounter.spec \
